@@ -10,9 +10,9 @@
 
 No matter what you create, getting exposure is hard. Unless you benefit from an established network or spend a lot of time advertising, it is highly likely that your creation will remain unknown. This is true in all fields, and open-source development is no exception.
 
-GitHub "stars" can be an indicator of popularity but in no way an indicator of quality. There are countless high-quality repositories that get very few stars and, since most open-source project discovery mechanisms (e.g., [GitHub Explore](https://github.com/explore)) sort the projects by the number of stars, the highlighted projects are rarely the most interesting.
+GitHub "stars" can be an indicator of popularity but in no way an indicator of quality. There are countless high-quality repositories that get very few stars and, since most open-source project discovery mechanisms (e.g., [GitHub Explore](https://github.com/explore)) sort the projects by the number of stars, the highlighted projects are not necessarily the most interesting.
 
-Unstar aims to improve the discoverability of JavaScript libraries, tools, and resources, by empowering humans instead of algorithms.
+Unstar aims to improve the discoverability of JavaScript libraries, tools, and resources, by using humans instead of algorithms.
 
 ## How does it work?
 
